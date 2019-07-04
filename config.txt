@@ -4,3 +4,4 @@ Opção 3: TRUFA
 Opção 4: verdadeiro
 Opção 5: verdadeiro
 Opção 6: "maçã"
+Opção 7: "pêra"
