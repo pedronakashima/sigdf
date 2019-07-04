@@ -2,5 +2,5 @@ Opção 1: 'banana'
 Opção 2: 'maçã'
 Opção 3: TRUFA
 Opção 4: verdadeiro
-Opção 5: falso
+Opção 5: verdadeiro
 Opção 6: "LICHIA"
