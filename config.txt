@@ -4,3 +4,5 @@ Opção 3: TRUFA
 Opção 4: verdadeiro
 Opção 5: verdadeiro
 Opção 6: "LICHIA"
+opção 7: true
+de onde: escrito da ALMS
