@@ -1,5 +1,5 @@
 Opção 1: 'banana'
-Opção 2: 'maçã'
+Opção 2: 'laranja'
 Opção 3: TRUFA
 Opção 4: verdadeiro
 Opção 5: verdadeiro
