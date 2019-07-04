@@ -1,0 +1,6 @@
+Opção 1: 'banana'
+Opção 2: 'maçã'
+Opção 3: true
+Opção 4: verdadeiro
+Opção 5: falso
+Opção 6: "laranja"
